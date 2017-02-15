@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Service Demo</string>
+    <string name="baslat">Servisi Başlat</string>
+    <string name="durdur">Servisi Durdur</string>
+</resources>
